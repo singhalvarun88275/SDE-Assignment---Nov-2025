@@ -1,0 +1,12 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "SDE Assignment - Merge Discontinuous Time Ranges",
+  "main": "my-module.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
